@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class Exapmle2 {
 
@@ -11,17 +12,18 @@ public class Exapmle2 {
 		 단, 해당 반복문은 for~do~while문까지 한가지~~!
 		 */
 			
-		
-		 Scanner yy = new scanner(System.in);
+		Scanner yy = new Scanner(System.in);
+		 
 
 		 int a,aa;
 		 int total=0;
-		 int user;
-		 
-		  user=yy.nextint();
-          for(a=1;a<=9;a++);
-          for(us)
+		 		 
+		 int user = yy.nextInt();
+          //for(a=1;a<=9;a++);
+         // for(us)
           
+		 
+		 yy.close();
 
 		 
 		 

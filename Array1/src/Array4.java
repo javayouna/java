@@ -22,6 +22,13 @@ public class Array4 {
 		//int name_ea=names.length;
 		System.out.println(Arrays.toString(names));
 		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }
